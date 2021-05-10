@@ -1,0 +1,15 @@
+C:\Users\adean\source\repos\Connex4\obj\Debug\Connex4.Migrations.CreateUser.resources
+C:\Users\adean\source\repos\Connex4\obj\Debug\ConnexDemo.csproj.GenerateResource.cache
+C:\Users\adean\source\repos\Connex4\obj\Debug\ConnexDemo.csproj.CoreCompileInputs.cache
+C:\Users\adean\source\repos\Connex4\obj\Debug\Connex4.exe
+C:\Users\adean\source\repos\Connex4\obj\Debug\Connex4.pdb
+C:\Users\adean\source\repos\Connex4\bin\Debug\Connex4.exe.config
+C:\Users\adean\source\repos\Connex4\bin\Debug\Connex4.exe
+C:\Users\adean\source\repos\Connex4\bin\Debug\Connex4.pdb
+C:\Users\adean\source\repos\Connex4\bin\Debug\EntityFramework.dll
+C:\Users\adean\source\repos\Connex4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adean\source\repos\Connex4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adean\source\repos\Connex4\bin\Debug\EntityFramework.xml
+C:\Users\adean\source\repos\Connex4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adean\source\repos\Connex4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adean\source\repos\Connex4\obj\Debug\ConnexDemo.csproj.CopyComplete
